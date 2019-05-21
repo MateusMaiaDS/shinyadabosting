@@ -210,14 +210,6 @@ class: inverse, center, middle
 ---
 class: inverse, center, middle
 
-# ShinyAdaBoosting: All Models
-
-.center[![](shiny_animate_all_models.gif)]
-
-
----
-class: inverse, center, middle
-
 # All Models Complete Trees
 .center[![](shiny_animate_all_models_spirals.gif)]
 
