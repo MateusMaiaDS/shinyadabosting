@@ -1,7 +1,7 @@
 ---
 title: "Shiny adaboosting: an interactive dashboard to adaptive boosting algorithm"
 subtitle: "IV International Seminar on Statistics with R"
-author: "\u2694   <br/> Mateus Maia¹ and Anderson Ara²<br/> <br/> Federal University of Bahia"
+author: "\u2694   <br/> Mateus Maia <br/> <br/> <small> a joint work with Anderson Ara </small>  <br/> <br/> <br/> Federal University of Bahia"
 
 date: "`r Sys.Date()`"
 output:
@@ -253,9 +253,11 @@ class: center, middle,inverse
 mateusmaia11@gmail.com
 
 <br/>
-<br/>
-To explore a little more the ShinyAdaBoosting
+### Explore a little more the ShinyAdaBosting app in
 
 mateusmaia.shinyapps.io/adaboosting/
 
 
+.footnote[
+[1]Slides created via the R package xaringan
+]
