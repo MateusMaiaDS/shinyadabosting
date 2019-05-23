@@ -131,10 +131,10 @@ $$G(\mathbf{x})=sign \left(\sum_{m=1}^{M} \alpha_{m}g_{m}(\mathbf{x}) \right)$$
 background-size: cover
 class: center, middle, inverse
 
-# ShinyAdaBoosting: The application
+# ShinyAdaBoosting: They application
 
 ---
-background-image: url(D:/my_computer/Est_ML_2019/SER_UFF_presentation/shiny_logo.png)
+background-image: url(shiny2.png)
 background-size: 100px
 background-position: 90% 8%
 
