@@ -78,7 +78,7 @@ class: inverse, center, middle
 
 # AdaBoosting
 
-Given $$\mathbf{y}\in\{1,1\}$$
+Given $$\mathbf{y}\in\{1,-1\}$$
 <br/>
 <br/>
 
